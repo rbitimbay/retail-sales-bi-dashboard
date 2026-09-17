@@ -1,0 +1,11 @@
+30-SECOND VERSION
+
+One of my portfolio projects is a Retail Sales BI Dashboard that I built in Power BI as part of a two-person project. We worked with transactional retail data and analyzed revenue, orders, average order value, product categories, cities, and purchasing behavior. I created and worked with DAX measures, interactive visuals, a decomposition tree, geographic analysis, and market basket analysis. The main goal was to turn raw transaction data into a dashboard that supports business decisions.
+
+60-SECOND VERSION
+
+For this project, we used a synthetic online retail dataset and built an interactive Business Intelligence solution in Power BI. The main KPIs were Total Sales, Number of Orders, and Average Order Value. We also created an OrderKey for order-level analysis. The dashboard includes category and time-based sales analysis, descriptive statistics, a decomposition tree that drills from category to product to city, market basket analysis, a geographic map, and Power BI Q&A. One of the main findings was that Electronics generated the highest revenue, with smartphones, tablets, and laptops among the major contributors. The project gave me practical experience with Power BI, DAX, analytical thinking, and communicating business insights.
+
+IMPORTANT INTERVIEW NOTE
+
+Be accurate about your contribution. Since this was a two-person project, explain which parts you personally built or analyzed if the interviewer asks for details. Do not claim that every component was completed individually unless that is true.
