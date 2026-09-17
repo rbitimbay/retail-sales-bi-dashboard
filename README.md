@@ -6,7 +6,7 @@
 
 This project is an interactive **Business Intelligence dashboard built in Microsoft Power BI** to analyze retail transaction data and turn it into clear business insights.
 
-The dashboard explores sales performance, product/category performance, order value, geographic distribution, purchasing patterns, and revenue drivers. It was developed as a **two-person academic BI project** by **Rinat Bitimbay** and **Auyelbay Arailym**.
+The dashboard explores sales performance, product/category performance, order value, geographic distribution, purchasing patterns, and revenue drivers. It was developed as a **academic BI project** by **Rinat Bitimbay**
 
 ## Business Goal
 
@@ -164,7 +164,6 @@ retail-sales-bi-dashboard/
 This project was completed as a two-person academic project.
 
 - **Rinat Bitimbay**
-- **Auyelbay Arailym**
 
 ## Files
 
