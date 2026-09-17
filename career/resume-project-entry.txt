@@ -1,0 +1,10 @@
+Retail Sales BI Dashboard — Power BI
+Academic / Portfolio Project | Team of 2
+
+• Co-developed an interactive Power BI dashboard using transactional retail sales data.
+• Created DAX measures and calculated fields for Total Sales, Orders, Average Order Value, and order-level analysis.
+• Analyzed product and regional performance using descriptive statistics, Decomposition Tree, and geographic visualizations.
+• Applied Market Basket Analysis to explore purchasing patterns and potential cross-selling opportunities.
+• Added interactive filters and Power BI Q&A for self-service data exploration.
+
+Tech: Power BI, DAX, Business Intelligence, Data Analysis, Data Visualization
