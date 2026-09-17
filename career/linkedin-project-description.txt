@@ -1,0 +1,22 @@
+PROJECT NAME
+Retail Sales Business Intelligence Dashboard
+
+ASSOCIATED WITH
+Astana IT University
+
+DESCRIPTION
+Developed a Retail Sales Business Intelligence Dashboard in Microsoft Power BI as part of a two-person project.
+
+Analyzed transactional retail data across products, categories, cities, and time periods. Created DAX measures for key business KPIs including Total Sales, Number of Orders, and Average Order Value.
+
+Implemented descriptive statistics, interactive filtering, Decomposition Tree analysis, Market Basket Analysis, geographic sales analysis, and Power BI Q&A.
+
+The project demonstrates the use of Business Intelligence techniques to transform transactional data into insights that can support product, marketing, and regional business decisions.
+
+Technologies: Power BI, DAX, Business Intelligence, Data Analysis, Data Visualization.
+
+FEATURED SECTION TITLE
+Retail Sales Analytics Dashboard — Power BI
+
+FEATURED SECTION DESCRIPTION
+Interactive Power BI dashboard analyzing retail sales performance, product trends, purchasing behavior, and geographic sales distribution.
